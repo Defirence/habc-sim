@@ -27,7 +27,4 @@ u}$) and Ricci-flat curvature deviation ($Ric$).
 - NumPy
 - Matplotlib
 
-<>:13: SyntaxWarning: invalid escape sequence '\m'
-<>:13: SyntaxWarning: invalid escape sequence '\m'
-/tmp/ipykernel_1277/1347934514.py:13: SyntaxWarning: invalid escape sequence '\m'
   - **Topological Invariants:** Real-time tracking of the Field Strength Tensor proxy ($F_{\mu\nu}$) and Ricci-flat curvature deviation ($Ric$).
